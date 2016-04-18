@@ -8,8 +8,7 @@ textarea,
 .controls,
 .help-inline
 {
-  font-size: 12px; 
-  /* шрифты в окне */
+  font-size: 16px;
 }
 .noshadow {
   -webkit-box-shadow: none;
@@ -18,7 +17,7 @@ textarea,
     }
 
 legend {
-    font-size: 14px;
+    font-size: 24px;
 }
 
 select {
