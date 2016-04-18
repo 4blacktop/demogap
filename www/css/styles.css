@@ -4,7 +4,7 @@
     top:40px;
     bottom:0px;
     left:0px;
-    width:240px;
+    width:120px; /* 240 - ширина левого столбца */
     overflow:auto;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .tableview-links li>a{
-	font-size: 18px;
+	font-size: 12px; /* 18 шрифт в левом меню */
 	line-height: 1.3em;
 	color: #000;
 	display: block;
